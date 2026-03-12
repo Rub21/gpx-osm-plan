@@ -1,6 +1,7 @@
-# GPX OpenStreetMap Improvement Plan
+# GPS OpenStreetMap Improvement Plan
 
 Research and proposal for improving the GPS traces infrastructure in OpenStreetMap.
 
-- [Status (ES)](status.md)
-- [Status (EN)](status-en.md)
+- [Status](status.md)
+- [Download GPX Performance - JOSM](download-gpx-jOSM.md)
+- [GPS Tile Server](gps-tile-server.md)
